@@ -2,7 +2,7 @@
 
 Name: Shikinami Asuka
 
-Number: 000000
+Number: 00000000
 
 # Screenshot
 
